@@ -1,6 +1,15 @@
-tensorflow>=2.0.0
-ipykernel
+wheel
+Cython
 pandas
+matplotlib
+numpy
+scipy
 scikit-learn
+keras
+tensorflow
 wandb
+jupyter
+notebook
+ipykernel
+Fortuna
 seaborn
